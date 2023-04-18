@@ -1,2 +1,19 @@
 // Gitの練習
 // 基本的なワークフローを学びます
+// デスクトップへ移動
+cd ~/Desktop
+// 目標のディレクトリへ移動
+cd intro_git
+
+
+// Gitの状況確認
+git status
+
+ // git add　ステージングエリアに移動
+git add .
+
+ // git commit   -vを追加すると今回の変更点を確認できる
+ git commit -v
+
+// Escキー押下後
+ :wq
